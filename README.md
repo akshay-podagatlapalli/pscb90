@@ -5,4 +5,8 @@ Solid-state  electrolytes  promise  to  improve  battery  safety  as  well  as  
 
 I worked at the Clean Energy Lab during the summer of 2020, where I assisted the lab in employing machine learning approaches, in particular, one-shot learning and transfer learning, to predict ionic conductivity for a database of 1 mln materials without the need for computationally expensive quantum chemistry methods. 
 
-The deep learning model that was being evaluated on its predictive accuracy is the [Crystal Graph Convolutional Neural Network - CGCNN](https://github.com/txie-93/cgcnn). The code I've written was primarily utilized to test if the CGCNN was able to utilize molecular information such as bond angles in making its predictions and in identifying methods to incorporate such molecular information to improve the predictive capabilities of the model.     
+The deep learning model that was being evaluated on its predictive accuracy is the [Crystal Graph Convolutional Neural Network - CGCNN](https://github.com/txie-93/cgcnn). The code I've written was primarily utilized to test if the CGCNN was able to utilize molecular information such as bond angles in making its predictions and in identifying methods to incorporate such molecular information to improve the predictive capabilities of the model.  
+
+
+![Screenshot (17)](https://user-images.githubusercontent.com/65557678/169933303-f9da64cd-1a38-4e81-9554-0818de13ef66.png)
+*image_caption*
