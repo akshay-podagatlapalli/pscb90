@@ -1,5 +1,4 @@
-# Machine learning assisted search for new materials for Li-ion batteries 
-# and Perovskite based LEDs light-emitting diode (PeLEDs)
+# Machine learning assisted search for new materials for Li-ion batteries and Perovskite based LEDs light-emitting diode (PeLEDs)
 
 ## Project Description
 Solid-state  electrolytes  promise  to  improve  battery  safety  as  well  as  increase  the charging speed. There  is only  a handful of materials with known good ionic conductivity and a broader screening  is  urgently  needed. This is one of the research topics being pursued by the [Clean Energy Lab](http://cleanenergy.utoronto.ca/research/) at the University of Toronto.
