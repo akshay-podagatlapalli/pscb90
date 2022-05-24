@@ -9,6 +9,6 @@ The deep learning model that was being evaluated on its predictive accuracy is t
 
 
 <figure class="image">
-    <img src="{{ [include.url](https://user-images.githubusercontent.com/65557678/169933303-f9da64cd-1a38-4e81-9554-0818de13ef66.png) }}" alt="{{ include.description }}">
+    <img src="{{ (https://user-images.githubusercontent.com/65557678/169933303-f9da64cd-1a38-4e81-9554-0818de13ef66.png) }}" alt="{{ include.description }}">
     <figcaption>{{ include.description }}</figcaption>
 </figure>  
