@@ -7,8 +7,6 @@ I worked at the Clean Energy Lab during the summer of 2020, where I assisted the
 
 The deep learning model that was being evaluated on its predictive accuracy is the [Crystal Graph Convolutional Neural Network - CGCNN](https://github.com/txie-93/cgcnn). The code I've written was primarily utilized to test if the CGCNN was able to utilize molecular information such as bond angles in making its predictions and in identifying methods to incorporate such molecular information to improve the predictive capabilities of the model.  
 
-
-<figure class="image">
-    <img src="{{ (https://user-images.githubusercontent.com/65557678/169933303-f9da64cd-1a38-4e81-9554-0818de13ef66.png) }}" alt="{{ include.description }}">
-    <figcaption>{{ include.description }}</figcaption>
-</figure>  
+| ![CGCNN-Concept.jpg]([http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg](https://user-images.githubusercontent.com/65557678/169933303-f9da64cd-1a38-4e81-9554-0818de13ef66.png)) | 
+|:--:| 
+| *Visual Representation of the CGCNN. Image obtained from [1](https://arxiv.org/pdf/1710.10324.pdf)* |
