@@ -11,7 +11,7 @@ mpid_list = []
 with open(filename, 'r') as mp_ids:
   for mpid in mp_ids:
     mpid = mpid.strip()
-    url = "https://www.materialsproject.org/rest/v2/materials/" + mpid + "/vasp?API_KEY=4RlBg415ibVMTPhPxbTf"
+    url = "https://www.materialsproject.org/rest/v2/materials/" + mpid + "/vasp?API_KEY=API_KEY"
     r = requests.get(url, headers={'User-Agent':'Mozilla/5.0'})
     response_dict = r.json()
     mat_info = response_dict['response']
