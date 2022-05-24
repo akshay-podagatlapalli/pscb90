@@ -6,7 +6,7 @@ import sys
 import os.path
 import argparse
 
-APIKEY = "RixJH2qlNoLDtv1w" #API KEY const
+APIKEY = "enter API KEY here" #API KEY const
 PARAMLIST = ["energy", "energy_per_atom", "volume", "formation_energy_per_atom", "nsites", 
             "e_above_hull", "band_gap", "density",] #numeric parameters
 
