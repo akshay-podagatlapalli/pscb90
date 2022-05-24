@@ -6,7 +6,7 @@ from itertools import chain
 s_path = '/home/akshay/Desktop/100_cifs/mp-1069.cif'
 folder_path = '/home/akshay/Desktop/100_cifs/100_copies_1/'
 
-'''Input parameters for the function: number of copies required, dv = dropout value (needs to be between 0 and 1)'''
+### Input parameters for the function: number of copies required, dv = dropout value (needs to be between 0 and 1)
 
 
 def cif_clones(num_of_copies, dv, lim_a, lim_b):
